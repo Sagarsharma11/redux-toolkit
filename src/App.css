@@ -1,0 +1,18 @@
+.card img{
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  margin-top: 15px;
+}
+.card1 img{
+  height: 100px;
+  width: 100px;
+  margin: auto !important;
+
+}
+.card1 h5{
+  font-size: 18px;
+}
+.card1 p{
+  font-size: 11px;
+}
